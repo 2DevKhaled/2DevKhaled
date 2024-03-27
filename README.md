@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate frontend developer hailing from Saudi Arabia.</h3>
+<h3 align="center">A passionate frontend developer & Video Editor.</h3>
 
 - 🌱 I’m currently learning **React**
 
