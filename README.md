@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate frontend developer & Video Editor.</h3>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khaled+Muniz!;" />
+</h1>
+
+<h3 align="center">A passionate frontend developer & Video Editor.</h3>
+<div align="center">
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML , CSS & JS**
 
 - 📫 How to reach me **2khaled.alsaeedi@gmail.com**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ikhaleddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikhaleddev" height="30" width="40" /></a>
