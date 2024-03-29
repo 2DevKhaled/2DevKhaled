@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate frontend developer & Video Editor.</h3>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML , CSS & JS**
 
