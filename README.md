@@ -12,11 +12,11 @@
 - 📫 How to reach me **2khaled.alsaeedi@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="2khaled.alsaeedi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://www.google.com/imgres?q=discord%20icon&imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fdiscord-icon-2048x2048-o5mluhz2.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F185293%2Fdiscord&docid=YbciGSZog87nCM&tbnid=4Sg3KhOFf9-7WM&vet=12ahUKEwiGnJG8sZiFAxU5Z_EDHfWQDvQQM3oECBkQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwiGnJG8sZiFAxU5Z_EDHfWQDvQQM3oECBkQAA" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
