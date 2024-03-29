@@ -16,8 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="![image](https://github.com/2DevKhaled/2DevKhaled/assets/141423685/7f709901-4882-4a98-aab2-3a0609fe81d5)
-" target="_blank" />
+    <img src="![تنزيل](https://github.com/salesp07/salesp07/assets/141423685/c4ae5f94-7f61-40c1-a591-966bd28e3363)" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
