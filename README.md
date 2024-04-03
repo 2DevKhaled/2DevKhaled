@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khaled!;" />
 </h1>
  <h5 align="left">A passionate frontend developer and UI&UX .</h5> 
-
+<hr>
 <h2 align="left">About me</h2>
 
 <p align="left">📚 I'm currently learning : React<br>🎯 Goals: : Be a Full-Stack Developer<br>🎓  IT Student 2026 ⏳.</p>
