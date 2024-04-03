@@ -8,7 +8,7 @@
 
 <p align="left">📚 I'm currently learning : React<br>🎯 Goals: : Be a Full-Stack Developer<br>🎓  IT Student 2026 ⏳.</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With :</h2>
 
 ###
 
