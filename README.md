@@ -2,12 +2,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khaled!;" />
 </h1>
-### <p align="left">A passionate frontend developer and UI&UX .</p> ###
+ <h5 align="left">A passionate frontend developer and UI&UX .</h5> 
 
 <h2 align="left">About me</h2>
 
 
-<h5 align="left">📚 I'm currently learning : React<br>🎯 Goals: : Be a Full-Stack Developer<br>🎓  IT Student 2026 ⏳.</h5>
+<p align="left">📚 I'm currently learning : React<br>🎯 Goals: : Be a Full-Stack Developer<br>🎓  IT Student 2026 ⏳.</p>
 
 <h2 align="left">I code with</h2>
 
