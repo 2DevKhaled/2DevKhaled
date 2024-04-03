@@ -6,11 +6,8 @@
 
 <h2 align="left">About me</h2>
 
-###
 
-<p align="left">📚 I'm currently learning : React<br>🎯 Goals: : Be a Full-Stack Developer<br>🎓  IT Student 2026 ⏳.</p>
-
-###
+<h5 align="left">📚 I'm currently learning : React<br>🎯 Goals: : Be a Full-Stack Developer<br>🎓  IT Student 2026 ⏳.</h5>
 
 <h2 align="left">I code with</h2>
 
