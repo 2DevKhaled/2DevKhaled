@@ -4,7 +4,7 @@
 </h1>
  <h3 align="center">A passionate frontend developer and UI&UX .</h3> 
 <hr>
-<h2 align="left">About me</h2>
+<h2 align="left">About Me :</h2>
 
 <p align="left">📚 I'm currently learning : React<br>🎯 Goals: : Be a Full-Stack Developer<br>🎓  IT Student 2026 ⏳.</p>
 
